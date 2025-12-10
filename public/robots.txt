@@ -1,0 +1,6 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location (update this URL when deployed)
+Sitemap: https://yourwebsite.com/sitemap.xml
